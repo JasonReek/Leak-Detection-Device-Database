@@ -7,4 +7,6 @@ I have simplified a lot of the process by writing an SQLite wrapper to more easi
 
 It is also possible to write raw SQL in an the Advance Search feature to intereact with the Database data.
 
+Data and graphs are able to write into Microsfot EXCEL format, or just plain CSV format for data analysis. 
+
 I have not included the database as it contains private information. 
